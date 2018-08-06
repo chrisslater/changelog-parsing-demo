@@ -1,0 +1,15 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "commit": "npx git-cz"
+  },
+  "devDependencies": {
+    "lerna": "^3.0.0-rc.0"
+  },
+  "dependencies": {
+    "commitizen": "^2.10.1",
+    "conventional-changelog": "^2.0.1",
+    "conventional-commits-parser": "^3.0.0"
+  }
+}
