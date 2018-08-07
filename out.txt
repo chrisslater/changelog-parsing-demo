@@ -1,0 +1,32 @@
+Publish
+
+ - package-b@1.2.0
+
+Merge pull request #2 from chrisslater/ABC-0003
+
+feat(package-b): add index file
+feat(package-b): add index file
+
+ABC-0003
+
+feat(lerna): add independent mode
+
+v1.1.0
+
+feat: Add private true to packages
+
+Merge pull request #1 from chrisslater/ABC-0002
+
+feat(ABC-0002): add package-b to project
+feat(ABC-0002): add package-b to project
+
+ABC-0002
+
+chore(ABC-0001): add commitizen config to project
+
+feat(ABC-0001): add package-a to project
+
+ABC-0001
+
+chore: add scaffold for project
+
