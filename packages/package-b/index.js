@@ -1,1 +1,3 @@
-console.log('hello world!')
+const hello = require('package-c')
+
+console.log(hello('world'))
