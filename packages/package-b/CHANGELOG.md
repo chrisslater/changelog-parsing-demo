@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/chrisslater/changelog-parsing-demo/compare/package-b@1.2.0...package-b@1.3.0) (2018-08-07)
+
+
+### Features
+
+* **ABC-0004:** add punctuation ([9b4496c](https://github.com/chrisslater/changelog-parsing-demo/commit/9b4496c))
+
+
+
+
+
 <a name="1.2.0"></a>
 # 1.2.0 (2018-08-07)
 
