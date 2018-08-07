@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/chrisslater/changelog-parsing-demo/compare/package-b@1.3.0...package-b@1.4.0) (2018-08-07)
+
+
+### Features
+
+* **index:** add hello world via api ([8997a33](https://github.com/chrisslater/changelog-parsing-demo/commit/8997a33))
+
+
+
+
+
 <a name="1.3.0"></a>
 # [1.3.0](https://github.com/chrisslater/changelog-parsing-demo/compare/package-b@1.2.0...package-b@1.3.0) (2018-08-07)
 
